@@ -1,10 +1,11 @@
 {
+  "version": "0.1",
   "servers": [
     {
+      "id": "test-mcp-001",
       "name": "Test MCP Server",
       "url": "https://test-mcp-server.example.com",
       "description": "A demo MCP server for UI testing",
-      "id": "test-mcp-001",
       "access": {
         "type": "public",
         "credentials": null
