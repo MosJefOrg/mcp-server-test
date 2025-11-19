@@ -1,0 +1,13 @@
+{
+  "servers": [
+    {
+      "name": "Test MCP Server",
+      "url": "https://test-mcp-server.example.com",
+      "description": "A demo MCP server for UI testing",
+      "id": "test-mcp-001",
+      "access": {
+        "type": "public"
+      }
+    }
+  ]
+}
