@@ -6,7 +6,8 @@
       "description": "A demo MCP server for UI testing",
       "id": "test-mcp-001",
       "access": {
-        "type": "public"
+        "type": "public",
+        "credentials": null
       }
     }
   ]
